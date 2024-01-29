@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Doruk, a.k.a @doruk4test
 - 👀 I’m interested in Test Automation and AI
-- 📫 Reach me through doruk4test@gmail.com or Linkedin
+- 📫 Reach me through Linkedin
 
 <!---
 doruk4test/doruk4test is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
