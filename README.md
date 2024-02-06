@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Doruk, a.k.a @doruk4test
+- 👋 Hi, I’m Doruk
 - 👀 I’m interested in Test Automation and AI
 - 📫 Reach me through Linkedin
 
