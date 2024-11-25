@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Test Automation & AI**
 
-- 🌱 I’m currently learning **Playwright, Maestro**
+- 🌱 I’m currently working with **Playwright, Maestro**
 
 - 💬 Ask me about **Software Test Automation & AI**
 
