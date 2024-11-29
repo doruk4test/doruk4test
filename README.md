@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doruk</h1>
 <h3 align="center">Software Test Automation Engineer @ adesso & Electrical & Electronics Engineer @ TU Berlin</h3>
 
-- 🔭 I’m currently working on **Test Automation & AI**
+- 🔭 I’m currently working on **Test Automation & AI Testing**
 
 - 🌱 I’m currently working with **Playwright, Maestro**
 
